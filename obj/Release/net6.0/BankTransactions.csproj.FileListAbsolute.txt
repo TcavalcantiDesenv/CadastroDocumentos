@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.RazorAssemblyInfo.cache
+C:\Users\Dell\OneDrive\Área de Trabalho\Asp.Net\BankTransactions\obj\Release\net6.0\BankTransactions.RazorAssemblyInfo.cs
