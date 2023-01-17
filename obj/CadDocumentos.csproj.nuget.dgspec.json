@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\CadDocumentos.csproj": {}
+    "C:\\DELL\\SistemaDocumentos\\CadDocumentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\CadDocumentos.csproj": {
+    "C:\\DELL\\SistemaDocumentos\\CadDocumentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\CadDocumentos.csproj",
+        "projectUniqueName": "C:\\DELL\\SistemaDocumentos\\CadDocumentos.csproj",
         "projectName": "CadDocumentos",
-        "projectPath": "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\CadDocumentos.csproj",
+        "projectPath": "C:\\DELL\\SistemaDocumentos\\CadDocumentos.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\obj\\",
+        "outputPath": "C:\\DELL\\SistemaDocumentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

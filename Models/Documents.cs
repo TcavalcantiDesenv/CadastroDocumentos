@@ -10,6 +10,11 @@ namespace PostDocuments.Models
         public int DocumentId { get; set; }
 
         [Column(TypeName = "nvarchar(100)")]
+        [DisplayName("Descrição")]
+        [Required(ErrorMessage = "Campo Obrigatório.")]
+        public string Description { get; set; }
+
+        [Column(TypeName = "nvarchar(100)")]
         [DisplayName("Nome do Cliente")]
         [Required(ErrorMessage = "Campo Obrigatório.")]
         public string ClientName { get; set; }

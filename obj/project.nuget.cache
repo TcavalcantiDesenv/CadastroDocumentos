@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffzUdxk6j/5uVF/HPmcr4JwG48GTGra8hEQVEXTce2FvZ+Fx189d3mWNoCdhqeCNjx6t9n9bh5CmnMOCWNQmjw==",
+  "dgSpecHash": "8jv5bRZ6yvm0q5hGpjIa7hHf6ojUvFo9Qizn/+t03z4cikLLuM9obTmD+v7zHmqDyYB1xDnISUitUPZQX4lElg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Área de Trabalho\\Asp.Net\\BankTransactions\\CadDocumentos.csproj",
+  "projectFilePath": "C:\\DELL\\SistemaDocumentos\\CadDocumentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -13,6 +13,9 @@
                     <th>
                         @Html.DisplayNameFor(model => model.ClientName)
                     </th>
+                                        <th>
+                        @Html.DisplayNameFor(model => model.Description)
+                    </th>
                     <th>
                         @Html.DisplayNameFor(model => model.Date)
                     </th>
@@ -35,6 +38,9 @@
                     <tr>
                         <td>
                             @Html.DisplayFor(modelItem => item.ClientName)
+                        </td>
+                                                <td>
+                            @Html.DisplayFor(modelItem => item.Description)
                         </td>
                         <td>
                             @Html.DisplayFor(modelItem => item.Date)
